@@ -32,6 +32,23 @@ samples, guidance on mobile development, and a full API reference.
 
 [Documentation](https://gitlab.com/mainlabwsu/fncd_mobile_android/blob/master/mobile_app_fncd/documentation.md)
 
+
+## Download [app-release.apk](https://gitlab.com/mainlabwsu/fncd_mobile_android/blob/master/mobile_app_fncd/app-release.apk)
+
+The release file called app-release.apk can be uploaded and downloaded on your Android phone. It is compatible with the earlier versions.
+
+The APK file format is used by the Android operating system for distribution and installation of mobile apps.
+
+With an APK file, you are essentially getting an app. Most users get apps from the Google Play Store. In this case, I can get the app in Google Play, but for testing purposes we are going to leave it in this repository. In the future I will add it.
+
+- Download the app-release.apk file on your computer.
+- Once you've downloaded the APK file on your computer, connect your Android device to it.
+- At this point, you may be asked if you want to charge your phone or connect it as a 'media device.' Choose Media device.
+- Then, find your phone's folder on your computer. It will be in 'My Computer' or 'Computer' on Windows (PC).
+- Copy the APK file into a folder of your choice in your Android smartphone.
+- You will now be able to search for the file location in the My files folder of your device.
+- Find the APK file, tap it, then hit Install.
+
 ## Autor
 
 - Victor P. Unda
