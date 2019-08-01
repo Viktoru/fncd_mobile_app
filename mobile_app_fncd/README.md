@@ -33,7 +33,7 @@ samples, guidance on mobile development, and a full API reference.
 [Documentation](https://gitlab.com/mainlabwsu/fncd_mobile_android/blob/master/mobile_app_fncd/documentation.md)
 
 
-## Download [app-release.apk](https://gitlab.com/mainlabwsu/fncd_mobile_android/blob/master/mobile_app_fncd/app-release.apk)
+## Download [app-release.apk]()
 
 The release file called app-release.apk can be uploaded and downloaded on your Android phone. It is compatible with the earlier versions.
 
