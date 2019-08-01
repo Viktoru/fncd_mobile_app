@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Development
 
-[Documentation](https://gitlab.com/mainlabwsu/fncd_mobile_android/blob/master/mobile_app_fncd/documentation.md)
+[Documentation](https://github.com/Viktoru/fncd_mobile_app/blob/master/mobile_app_fncd/documentation.md)
 
 
 ## Download [app-release.apk]()
